@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 25px;
+    color: #420dab
+;
+}
+
+.end {
+    font-family: 'Kaushan Script', cursive;
+}
+
+body {
+    background-color: teal;
+     background-image: url(https://www.rivieradrinks.co.uk/content/uploads/2014/10/hero-drinks-1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 65%;
+    
+}
+
+.name {
+    font-size: 20px;
+}
+.two {
+    font-size: 20px;
+}
+.three {
+    font-size: 20px;
+}
+
+.end {
+    font-size: 35px;
+}
